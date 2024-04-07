@@ -37,4 +37,4 @@ def decrypt(text):
 text = "5::7=9<7"
 
 print ("Plain Text : " + text)
-print ("Result: " + decrypt(text,s))
+print ("Result: " + decrypt(text))
